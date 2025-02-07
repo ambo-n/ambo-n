@@ -15,11 +15,13 @@ I am looking for work opportunities.
 
 ---
 
-<div>
-
-[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambo-n&show_icons=true&count_private=true&&theme=gruvbox)](https://github.com/ambo-n/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambo-n&layout=compact&theme=gruvbox)](https://github.com/ambo-n/github-readme-stats)
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/ambo-n/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ambo-n&show_icons=true&count_private=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/ambo-n/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo-n&layout=compact&theme=gruvbox" />
+  </a>
 </div>
 
 ---
