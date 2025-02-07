@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<img src="/ambo-n/img/banner.png" alt="Black banner with the words: Amber Nguyen, Full Stack Developer on the left and a code on the right"/>
+<img src="img/banner.png" alt="Black banner with the words: Amber Nguyen, Full Stack Developer on the left and a code on the right"/>
 
 Thank you for taking the time to check out my Github account.
 
 My name is Amber and I'm currently working towards my goal of becoming a software developer.
 
 I recently graduated from the She Codes Plus Program in Perth, Australia.
-<img src="/ambo-n/img/she-codes-logo.png" width="100px" alt="She Codes Australia logo">
+<img src="img/she-codes-logo.png" width="100px" alt="She Codes Australia logo">
 
 I am looking for work opportunities.
 
@@ -60,3 +60,11 @@ I am looking for work opportunities.
 ##### Cloud Services & Hosting
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+</details>
+
+---
+
+## <img src="https://i.pinimg.com/originals/fc/01/d6/fc01d6058d64e7f9e25292d1980f8500.gif" width ="25"><b> Lets Connect</b>
+
+<a href="mailto:amber.quynh.nguyen@gmail.com"><img alt="Link to email contact address" src="https://img.shields.io/badge/email-D14836?style=for-the-badge" target="_blank" /></a> <a href="https://www.linkedin.com/in/amber-nguyen-231936176/"><img alt="badge for LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
